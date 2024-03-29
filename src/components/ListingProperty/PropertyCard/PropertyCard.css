@@ -1,0 +1,89 @@
+.PropertyCard{
+    width: 370px;
+    height: 478px;
+    padding-top: 12px;
+}
+.PropertyImage{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 22px;
+}
+.PriceAndCategory{
+display: flex;
+width: 322px;
+margin: 0 auto;
+margin-bottom: 23px;
+justify-content: space-between;
+}
+.Price{
+    font-size: 22px;
+}
+.ChangeCategory{
+    width: 171px;
+    display: flex;
+    justify-content: space-between;
+}
+.AboutProperty{
+    width: 322px;
+    height: 16px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(46, 193, 172, 0.26);
+}
+p{
+    margin-left: 6px;
+}
+.PropertyNetwork{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(27, 112, 187, 0.1);
+    color: #1B70BB;
+    align-self: center;
+    font-size: 10px;
+    padding: 0 9px;
+    line-height: 5px;
+    border-radius: 5px;
+    margin-right: 8px;
+}
+.PropertyFamily{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 135, 0, 0.1);
+    color: #FF8700;
+    align-self: center;
+    font-size: 10px;
+    padding: 0 9px;
+    line-height: 5px;
+    border-radius: 5px;
+}
+.bathroom{
+    display: flex;
+    color: #768192;
+    font-size: 14px;
+    
+}
+.bedroom{
+    display: flex;
+    color: #768192;
+    font-size: 14px;
+}
+.area{
+    display: flex;
+    color: #768192;
+    font-size: 14px;
+}
+.PersonAndButton{
+    width: 322px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 13px;
+}
+.Person{
+    display: flex;
+}
+.FullName{
+    font-size: 14px;
+}

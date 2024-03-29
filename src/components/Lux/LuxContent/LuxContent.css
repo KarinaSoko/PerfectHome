@@ -1,0 +1,55 @@
+.LuxContent{
+
+}
+.LuxTitle{
+    margin-top: 29px;
+    font-size: 48px;
+    color: white;
+}
+.LuxText{
+    margin-top: 35px;
+    font-size: 16px;
+    color: white;
+}
+.LuxAddress{
+    margin-top: 45px;
+    font-size: 20px;
+    color: white;
+}
+.LuxPriceCategory{
+    margin-top: 31px;
+    display: flex;
+}
+.LuxPrice{
+    font-size: 26px;
+    color: white;
+}
+.LuxCategory{
+    width: 60px;
+    height: 18px;
+    background-color: #FF5A3C;
+    border-radius: 5px;
+    display: flex;
+    padding: 6px 13px;
+    margin: auto 0;
+    margin-left: 28px;
+    
+}
+.LuxFamily{
+    font-size: 11px;
+    color: white;
+    margin: 0;
+    margin-left: 7px;
+    
+}
+.LuxRooms{
+    display: flex;
+    margin-top: 31px;
+}
+.LuxPhotoMade{
+    border-radius: 7px;
+    margin-right: 15px;
+}
+.LuxPhoto{
+    margin-top: 50px;
+}

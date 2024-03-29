@@ -1,0 +1,31 @@
+.titleWorld{
+    font-size: 48px;
+}
+.textWorld{
+    color: #9F9F9F;
+    font-size: 18px;
+}
+.MainInfo{
+    width: 505px;
+    height: 375px;
+    margin-right: 10px;
+}
+.ExcellenceList{
+display: flex;
+width: 480px;
+    justify-content: space-between; 
+}
+.World{
+    display: flex;
+    max-width: 1229px;
+    height: 636px;
+    justify-content: space-between; 
+    margin:0 auto;
+    margin-top: 85px;
+    
+}
+.LogoAndWorldStatistc{
+    position: absolute;
+    margin-left: -190px;
+    margin-top: 40px;
+}

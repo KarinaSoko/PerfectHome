@@ -1,0 +1,18 @@
+.NetWorkCircle{
+    width: 39px;
+    height: 39px;
+    border-radius: 50%;
+    background-color: #FF5A3C;
+   margin-right: 20px;
+    
+}
+.colorCircle{
+    background-color: #1A242E;
+
+}
+.NetWorkImg{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

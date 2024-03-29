@@ -1,0 +1,28 @@
+.search-bottom-frame{
+    width: 918px;
+    height: 151px;
+    border: 0.5px solid #E7E7E7;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 0 auto;
+    position: relative;
+    margin-top: 180px;
+}
+.search-second-frame{
+    width: 895px;
+    height: 118px;
+    border: 2px solid #A7A7A7;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    margin: auto;
+    margin-top: 13px;
+    display: flex;
+    align-items: center;
+}
+.search-bar{
+    display: flex;
+    width: 540px;
+    height: 53px;
+    margin-left: 66px;
+    margin-right: 81px;
+}

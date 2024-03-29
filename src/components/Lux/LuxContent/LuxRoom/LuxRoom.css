@@ -1,0 +1,29 @@
+.LuxRoom{
+    display: flex;
+    width: 137px;
+    margin-right: 33px;
+    
+
+}
+.LuxRoomText{
+    color: #F9F9F9;
+    font-size: 16px;
+    margin:auto 0;
+    font-weight: 500;
+    margin-right: 6px;
+    text-wrap: nowrap;
+}
+.LuxElipse{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.2);
+    display: block; 
+    margin: auto 0;
+    margin-right: 10px;
+}
+.LuxSign{
+  position: absolute;
+  transform: translate(50%, 50%);
+
+}

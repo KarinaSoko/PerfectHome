@@ -1,0 +1,18 @@
+.NameCard{
+    font-size: 24px;
+    margin-top: 32px;
+}
+.TextCard{
+    font-size: 14px;
+    margin-top: 38px;
+    color: rgba(8, 40, 84, 0.6);
+}
+.CardIsActive{
+    width: 482px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 52px;
+}
+.StarCard{
+    margin-top: 11px;
+}

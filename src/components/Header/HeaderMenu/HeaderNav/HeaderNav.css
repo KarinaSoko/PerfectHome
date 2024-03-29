@@ -1,0 +1,8 @@
+.anactive{
+opacity: 0.6;
+}
+.active{
+
+    border-bottom: 2px solid #2C090B;
+}
+

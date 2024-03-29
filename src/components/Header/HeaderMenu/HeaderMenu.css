@@ -1,0 +1,24 @@
+.Menu{
+    max-width: 1394px;
+    min-width: 760px;
+    height: 73px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    border: 2px solid #2C090B;
+    border-radius: 5px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+  }
+  .NavList{
+    width: 363px;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .logo{
+    width: 144px;
+    height: 34px;
+    margin-left: 41px;
+  }
+  

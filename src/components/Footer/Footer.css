@@ -1,0 +1,75 @@
+.Footer{
+    width:100%;
+    height:252px ;
+    background-color: #1D2B38;
+    margin-top: 139px;
+    padding-top: 84px;
+}
+.columns{
+    max-width:1224px ;
+    min-width: 880px;
+     display: flex;
+     margin: 0 auto;
+     justify-content: space-between;
+    
+}
+.FooterNav{
+    width:100%;
+    height:39px ;
+    background-color: #2D3B47;
+    padding-top: 21px;
+    
+}
+.TextFollow{
+    font-size: 22px;
+    color: white;
+    margin-top: 45px;
+}
+.networks{
+    display: flex;
+    margin-top: 24px;
+}
+.TextFooterNav{
+    min-width: 300px;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    margin: 0;
+
+}
+.TitleFooter{
+    font-size: 22px;
+    color: white;
+}
+.TextFooterBigger{
+    font-size: 20px;
+    color: #BFBFBF;
+}
+.TextFooter{
+    font-size: 18px;
+    color: #BFBFBF;
+}
+.column2{
+    width: 339px;
+}
+.Email{
+    width: 241px;
+    height: 50px;
+    background-color: white;
+    padding: 0;
+    border: none;
+    padding-left: 19px;
+    font-size: 18px;
+    
+}
+.EmailSend{
+    display: flex;
+}
+.ButtonSend{
+    width: 60px;
+    height: 50px;
+    background-color: #FF5A3C;
+    padding: 0;
+    border: none;
+
+}

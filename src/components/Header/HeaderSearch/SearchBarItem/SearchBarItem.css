@@ -1,0 +1,24 @@
+.titleSearchBarItem{
+    font-size: 18px;
+    margin: 0;
+    margin-bottom: 6px;
+}
+.selectSearchBarItem{
+    color: #9F9F9F;
+    margin: 0;
+    margin-right: 15px;
+    text-wrap: nowrap;
+}
+.ExpendPlace{
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+}
+.Expand{
+    width: 7px;
+    height: 4px;
+
+}
+.SearchBarItem{
+    margin-right: 52px;
+}

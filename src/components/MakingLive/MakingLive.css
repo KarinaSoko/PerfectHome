@@ -1,0 +1,29 @@
+.MakingLive{
+    width: 100%;
+    height: 681px;
+    padding: 126px 0;
+}
+.MakingLiveStatic{
+    position: absolute;
+    margin-top: 365px;
+    margin-left: -780px;
+
+}
+.MakingLiveContents{
+    width: 1202px;
+    margin: 0 auto;
+    display: flex;
+}
+.MakingLivePhotos{
+    margin-right: 75px;
+}
+.TitleMakingLive{
+    font-size: 48px;
+    margin-top: 42px;
+}
+.DescriptionMakingLive{
+    font-size: 18px;
+    color: #9F9F9F;
+    margin-top: 27px;
+    margin-bottom: 30px;
+}
